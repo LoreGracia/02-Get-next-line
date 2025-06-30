@@ -19,7 +19,7 @@ Get next line is a program written in C for reading files given as arguments. Th
 ## Features
 
 - Program written in C for files lecture line by line.
-- Implementation of custom labrary.
+- Implementation of custom library.
 
 ## Project Structure
 
